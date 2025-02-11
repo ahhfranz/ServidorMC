@@ -1,6 +1,6 @@
 # Servidor de Minecraft <a href="#"><img src="../../blob/master/_static/Logo.png" title="Servidor de Minecraft - 1.20.1" align="right" width="64" height="64"/></a>
 - Repositorio hosteado con [GitHub Pages](https://pages.github.com/) utilizando [Sphinx](https://www.sphinx-doc.org/) con el tema [RTD](https://sphinx-rtd-theme.readthedocs.io/).
-  - El sitio se encuentra en **[ahhfranz.github.io/Servidor-MC/](ahhfranz.github.io/Servidor-MC/)**
+  - El sitio se encuentra en **[ahhfranz.github.io/ServidorMC/](ahhfranz.github.io/ServidorMC/)**
 - En este repositorio vas a poder encontrar las últimas **novedades**, **actualizaciones** y **guías** para el servidor de Minecraft de la comunidad.
 
 ## Aviso
