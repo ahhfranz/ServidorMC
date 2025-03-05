@@ -16,7 +16,7 @@
 <table align="center">
   <tbody>
     <tr>
-      <td align="center"><p align="center"><a href="https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/"><img src="https://www.massivecraft.com/wp-content/uploads/2011/07/McMMO.jpg" width="426" height="240"></a><br>MCMMO</p></td>
+      <td align="center"><p align="center"><a href="https://www.spigotmc.org/resources/%E2%9A%94-mythicmobs-free-version-%E2%96%BAthe-1-custom-mob-creator%E2%97%84.5702/"><img src="https://media.forgecdn.net/avatars/834/278/638224769290553553.png" width="426" height="240"></a><br>MythicMobs</p></td>
       <td align="center"><p align="center"><a href="https://www.spigotmc.org/resources/citizens.13811/"><img src="https://i.imgur.com/cjvkdiJ.png" width="426" height="240"></a><br>Citizens</p></td>
     </tr>
     <tr>
