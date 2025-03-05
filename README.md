@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-    <a href="#"><img src="../ogo.png" title="IW4x" width="610" height="60"/></a>
+    <a href="#"><img src="../ogo.png" title="Servidor de Minecraft 1.20.1" width="610" height="60"/></a>
     <br>
 </h1>
 
