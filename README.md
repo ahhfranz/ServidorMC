@@ -21,7 +21,7 @@
     </tr>
     <tr>
       <td align="center"><p align="center"><a href="https://www.spigotmc.org/resources/plotsquared-v7.77506/"><img src="https://raw.githubusercontent.com/IntellectualSites/Assets/main/plugins/PlotSquared/PlotSquared.svg" width="426" height="240"></a><br>PlotSquared</p></td>
-      <td align="center"><p align="center"><a href="https://www.spigotmc.org/resources/multiverse-core.390/"><img src="https://i.imgur.com/HVB2oAL.png" width="426" height="240"></a><br>Multiverse</p></td>
+      <td align="center"><p align="center"><a href="https://www.spigotmc.org/resources/multiverse-core.390/"><img src="https://i.imgur.com/HVB2oAL.png" width="500" height="240"></a><br>Multiverse</p></td>
     </tr>
     <tr>
       <td align="center"><p align="center"><a href="https://www.spigotmc.org/resources/ultra-permissions.42678/"><img src="https://i.imgur.com/XO4xZZn.png" width="426" height="240"></a><br>Ultra Permissions</p></td>
