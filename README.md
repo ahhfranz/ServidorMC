@@ -16,7 +16,7 @@
 <table align="center">
   <tbody>
     <tr>
-      <td align="center"><p align="center"><a href="https://www.spigotmc.org/resources/%E2%9A%94-mythicmobs-free-version-%E2%96%BAthe-1-custom-mob-creator%E2%97%84.5702/"><img src="https://proxy.spigotmc.org/e8f512ce536a9b2aae843d1c92f757f38da75e83/68747470733a2f2f696d6775722e636f6d2f744672306e374e2e706e67" width="426" height="240"></a><br>MythicMobs</p></td>
+      <td align="center"><p align="center"><a href="https://www.spigotmc.org/resources/%E2%9A%94-mythicmobs-free-version-%E2%96%BAthe-1-custom-mob-creator%E2%97%84.5702/"><img src="https://i.imgur.com/LLP49Zo.png" width="426" height="240"></a><br>MythicMobs</p></td>
       <td align="center"><p align="center"><a href="https://www.spigotmc.org/resources/citizens.13811/"><img src="https://i.imgur.com/cjvkdiJ.png" width="426" height="240"></a><br>Citizens</p></td>
     </tr>
     <tr>
